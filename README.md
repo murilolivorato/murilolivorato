@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Murilo Livorato 👋
 
-<!--
-**murilolivorato/murilolivorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer with expertise in PHP, JavaScript, SQL, and more. I love working on innovative projects and solving complex problems.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: PHP, JavaScript, SQL
+- **Frameworks**: Laravel, Vue.js
+- **Tools**: npm, Composer, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilolivorato&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murilolivorato/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/murilolivorato)
+
+## 📝 Latest Blog Posts
+[
+- [Medium](https://medium.com/@murilolivorato)
