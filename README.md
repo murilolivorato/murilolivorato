@@ -23,6 +23,7 @@ I'm a passionate developer with expertise in PHP, JavaScript, SQL, and more. I l
 [![Elastic Search](https://img.shields.io/badge/Elastic%20Search-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
 [![Kibana](https://img.shields.io/badge/Kibana-%23005571.svg?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
 [![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Postgres](https://img.shields.io/badge/Postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
