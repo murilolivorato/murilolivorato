@@ -12,9 +12,6 @@ I'm a passionate developer with expertise in PHP, JavaScript, SQL, and more. I l
 ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilolivorato&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murilolivorato/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/murilolivorato)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/murilolivorato/](https://www.linkedin.com/in/murilo-livorato-80985a4a/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@murilolivorato)
 
-## 📝 Latest Blog Posts
-[
-- [Medium](https://medium.com/@murilolivorato)
