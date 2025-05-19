@@ -8,8 +8,6 @@ I'm a passionate developer with expertise in PHP, JavaScript, SQL, and more. I l
 - **Frameworks**: Laravel, Vue.js
 - **Tools**: npm, Composer, Git
 
-## 📈 GitHub Stats
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilolivorato&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murilo-livorato-80985a4a/)
