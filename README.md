@@ -10,8 +10,6 @@ I'm a passionate developer with expertise in PHP, JavaScript, SQL, and more. I l
 
 ## 📊 GitHub Stats
 
-![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilolivorato&show_icons=true&theme=radical&hide_title=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilolivorato&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=murilolivorato&theme=radical&hide_border=true)
