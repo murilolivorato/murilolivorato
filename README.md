@@ -4,9 +4,15 @@
 I'm a passionate developer with expertise in PHP, JavaScript, SQL, and more. I love working on innovative projects and solving complex problems.
 
 ## 🛠️ Skills
-- **Languages**: PHP, JavaScript, SQL
-- **Frameworks**: Laravel, Vue.js
-- **Tools**: npm, Composer, Git
+- **Languages**: PHP (advanced), JavaScript (ES6+), Python (automation & scripting), SQL (MySQL, PostgreSQL), Bash
+- **Frameworks**: Laravel (APIs, Queues, Policies), Vue.js (Quasar), React, Node.js, Express
+- **Tools**: Docker, Docker Compose, Kubernetes, Git (Git Flow), Composer, npm/yarn, Webpack/Vite, Postman, Insomnia
+- **Databases**: MySQL, PostgreSQL, Redis (cache & queues), Elasticsearch
+- **Cloud & DevOps**: Google Cloud Platform (Cloud Run, IAM, Networking), CI/CD pipelines
+- **Architecture**: RESTful APIs, Microservices, Multi-tenant Systems, Clean Architecture, SOLID, Design Patterns
+- **Testing**: PHPUnit, Feature & Unit Testing, Code Review, Static Analysis
+- **Integrations**: Payment Gateways (Pagar.me), Google APIs (Maps, Vision, NLP), Third-party APIs
+- **Other**: Web Scraping (DomCrawler), Image Processing, Performance Optimization, SEO fundamentals
 
 ## 📊 GitHub Stats
 
