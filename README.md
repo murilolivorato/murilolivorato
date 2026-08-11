@@ -14,9 +14,6 @@ I'm a passionate developer with expertise in PHP, JavaScript, SQL, and more. I l
 - **Integrations**: Payment Gateways (Pagar.me), Google APIs (Maps, Vision, NLP), Third-party APIs
 - **Other**: Web Scraping (DomCrawler), Image Processing, Performance Optimization, SEO fundamentals
 
-## 📊 GitHub Stats
-
-
 
 
 ## 🔗 Connect with Me
