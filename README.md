@@ -17,7 +17,6 @@ I'm a passionate developer with expertise in PHP, JavaScript, SQL, and more. I l
 ## 📊 GitHub Stats
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=murilolivorato&theme=radical&hide_border=true)
 
 
 ## 🔗 Connect with Me
